@@ -1,5 +1,4 @@
-# DSA
-Practicing DSA problems
+# [Practicing DSA problems]
 
 # Linked List
 Complete implementation of Linked List
